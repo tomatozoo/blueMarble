@@ -1,0 +1,29 @@
+#############################
+# 채린: 6 설명
+# import background
+6 background = pygame.image.load('./image_files/퀴즈배경1')
+6 background = pygame.transform.scale(6 background, (800, 500))
+
+# import quiz
+6 quiz = pygame.image.load('./image_files/퀴즈1')
+6 quiz = pygame.transform.scale(6 quiz, (600,400))
+
+#import answer
+6 answer = pygame.image.load('./image_files/퀴즈해설1')
+6 answer = pygame.transform.scale(6 answer, (600,400))
+#############################
+
+#############################
+# 채린: 18 설명
+# import background
+18 background = pygame.image.load('./image_files/퀴즈배경2')
+18 background = pygame.transform.scale(18 background, (800, 500))
+
+# import quiz
+18 quiz = pygame.image.load('./image_files/퀴즈2')
+18 quiz = pygame.transform.scale(18 quiz, (600,400))
+
+#import answer
+18 answer = pygame.image.load('./image_files/퀴즈해설2')
+18 answer = pygame.transform.scale(18 answer, (600,400))
+#############################
